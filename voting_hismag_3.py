@@ -6,10 +6,10 @@ import os
 # ============================================================
 
 # Folder foto kandidat
-FOTO_FOLDER = r"D:\COLLEGE\HISMAG\foto kandidat"
+FOTO_FOLDER =  "."
 
 # Logo HISMAG
-LOGO_PATH = r"D:\COLLEGE\HISMAG\foto kandidat\logo_hismag.png"
+LOGO_PATH = "logo_hismag.png"
 
 KANDIDAT = [
     {"id": "K1",  "nama": "Nama Kandidat 1",  "foto": "kandidat_1"},
